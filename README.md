@@ -22,14 +22,6 @@ Currently Lead Web Engineer at <a href="https://zerolight.com" target="_blank" r
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nerdyman&show_icons=true" alt="nerdyman" />
-
-</div>
-
 <br/>
 
 <div align="center">
