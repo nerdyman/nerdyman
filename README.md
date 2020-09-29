@@ -22,8 +22,6 @@ Currently Lead Web Engineer at <a href="https://zerolight.com" target="_blank" r
 
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
