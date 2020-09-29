@@ -24,6 +24,8 @@ Currently Lead Web Engineer at <a href="https://zerolight.com" target="_blank" r
 
 <br/>
 
+---
+
 <div align="center">
 <a href="https://stackoverflow.com/users/2716192/" target="_blank" rel="noopener"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="2532203" height="30" width="30" />&nbsp;</a>
 <a href="https://codesandbox.com/nerdyman" target="_blank" rel="noopener"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="nerdyman" height="30" width="30" />&nbsp;</a>
