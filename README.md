@@ -25,9 +25,13 @@ Currently Lead Web Engineer at <a href="https://zerolight.com" target="_blank" r
 ---
 
 <div align="center">
-<a href="https://stackoverflow.com/users/2716192/" target="_blank" rel="noopener"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="2532203" height="30" width="30" />&nbsp;</a>
-<a href="https://codesandbox.com/nerdyman" target="_blank" rel="noopener"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="nerdyman" height="30" width="30" />&nbsp;</a>
-<a href="https://medium.com/@nerdyman" target="_blank" rel="noopener"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@nerdyman" height="30" width="30" />&nbsp;</a>
-<a href="https://dribbble.com/nerdyman" target="_blank" rel="noopener"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="nerdyman" height="30" width="30" /></a>
-
+<a href="https://stackoverflow.com/users/2716192/" target="_blank" rel="noopener">
+  <img align="center" src="./stackoverflow.svg" alt="Stack Overflow account" height="30" width="30" />&nbsp;
+</a>
+<a href="https://codesandbox.com/nerdyman" target="_blank" rel="noopener">
+  <img align="center" src="./codesandbox.svg" alt="CodeSandbox account" height="30" width="30" />&nbsp;
+ </a>
+<a href="https://dev.to/nerdyman" target="_blank" rel="noopener">
+  <img align="center" src="./dev-dot-to.svg" alt="dev.to account" height="30" width="30" />&nbsp;
+</a>
 </div>
