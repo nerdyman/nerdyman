@@ -4,8 +4,6 @@
 
 I'm a full-stack JavaScript developer specialising in front-end technologies. 
 
-Currently Lead Web Engineer at <a href="https://zerolight.com" target="_blank" rel="noopener">ZeroLight</a>.
-
 </div>
 
 <div align="center">
