@@ -1,8 +1,8 @@
 <div align="center">
 
-# Heyo, I'm Ricky
+# 👋 Heyo, I'm Ricky
 
-I'm a full-stack JavaScript developer specialising in front-end technologies. 
+I'm a full-stack developer specialising in front-end technologies. 
 
 </div>
 
