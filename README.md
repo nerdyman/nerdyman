@@ -22,7 +22,7 @@ I'm a full-stack developer specialising in front-end technologies.
 
 ---
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: .25rem">
+<div align="center">
 <a href="https://dev.to/nerdyman" target="_blank" rel="noopener">
   <img align="center" src="./dev-dot-to.svg" alt="dev.to account" height="30" width="30" />&nbsp;
 </a>
