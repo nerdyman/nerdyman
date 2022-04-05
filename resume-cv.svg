@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<style>
+		.target {
+			fill: #000;
+		}
+
+		@media(prefers-color-scheme: dark) {
+			.target {
+				fill: #fff;
+			}
+		}
+
+	</style>
+	<path class="target"
+		d="M12.9 12h2.7L12 15.7 8.3 12H11V8.3h1.8V12zm1.8-7.3H5.6v14.6h12.8v-11h-3.7V4.7zM3.8 3.8c0-.5.4-.9.9-.9h11l4.6 4.6v12.8c0 .5-.4.9-.9.9H4.7c-.5 0-.9-.4-.9-.9V3.8z" />
+</svg>

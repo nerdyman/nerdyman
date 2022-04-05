@@ -11,6 +11,7 @@ I'm a full-stack developer specialising in front-end technologies.
 ## I Like Working with
 
 <br>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>&nbsp;
@@ -21,7 +22,7 @@ I'm a full-stack developer specialising in front-end technologies.
 
 ---
 
-<div align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: .25rem">
 <a href="https://dev.to/nerdyman" target="_blank" rel="noopener">
   <img align="center" src="./dev-dot-to.svg" alt="dev.to account" height="30" width="30" />&nbsp;
 </a>
@@ -29,6 +30,9 @@ I'm a full-stack developer specialising in front-end technologies.
   <img align="center" src="./codesandbox.svg" alt="CodeSandbox account" height="30" width="30" />&nbsp;
  </a>
   <a href="https://stackoverflow.com/users/2716192/" target="_blank" rel="noopener">
-  <img align="center" src="./stackoverflow.svg" alt="Stack Overflow account" height="30" width="30" />&nbsp;
-</a>
+    <img align="center" src="./stackoverflow.svg" alt="Stack Overflow account" height="30" width="30" />&nbsp;
+  </a>
+  <a href="https://www.figma.com/proto/pQdtYujBF1JkJBF0uP1OWB/ricky-davenport-cv" target="_blank" rel="noopener">
+    <img align="center" src="./resume-cv.svg" alt="View my resume" height="30" width="30" />
+  </a>
 </div>
