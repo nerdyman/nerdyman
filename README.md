@@ -37,6 +37,8 @@ Get in touch if you:
 
 </div>
 
+### [View my CV](https://www.figma.com/proto/pQdtYujBF1JkJBF0uP1OWB/ricky-davenport-cv)
+
 </div>
 
 
