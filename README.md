@@ -33,7 +33,7 @@ Get in touch if you:
 - Are hiring Full-stack or Front-end developers remotely in the UK/EU
 - Have the opportunity to work across the stack (React, TypeScript & Node.js are my main areas of expertise)
 - Offer equity
-- Want to build some cool stuff
+- Work on challenging problems
 
 </div>
 
