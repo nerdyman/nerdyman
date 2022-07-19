@@ -30,10 +30,10 @@ I'm a full-stack developer specialising in front-end technologies.
 
 Get in touch if you:
 
-- Are hiring Full-stack or Front-end developers remotely in the UK/EU
-- Have the opportunity to work across the stack (React, TypeScript & Node.js are my main areas of expertise)
-- Offer equity
+- Are hiring full-stack or front-end developers remotely in the UK/EU
+- Have the opportunity to work across the stack
 - Work on challenging problems
+- Offer equity
 
 </div>
 
