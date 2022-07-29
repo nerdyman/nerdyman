@@ -20,31 +20,6 @@ I'm a full-stack developer specialising in front-end technologies.
 
 </div>
 
----
-
-<div align="center">
-
-## ✨ I'm Currently Looking For New Roles ✨
-
-<div align="left">
-
-Get in touch if you:
-
-- Are hiring full-stack or front-end developers remotely in the UK/EU
-- Have the opportunity to work across the stack
-- Work on challenging problems
-- Offer equity
-
-</div>
-
-### [View my CV](https://www.figma.com/proto/pQdtYujBF1JkJBF0uP1OWB/ricky-davenport-cv)
-
-</div>
-
-
-
----
-
 <div align="center">
 <a href="https://dev.to/nerdyman" target="_blank" rel="noopener">
   <img align="center" src="./dev-dot-to.svg" alt="dev.to account" height="30" width="30" />&nbsp;
