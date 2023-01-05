@@ -2,7 +2,7 @@
 
 # 👋 Heyo, I'm Ricky
 
-I'm a full-stack developer specialising in front-end technologies. 
+I'm a full-stack developer specialising in JavaScript & TypeScript. 
 
 </div>
 
