@@ -2,7 +2,7 @@
 
 # 👋 Heyo, I'm Ricky
 
-I'm a full-stack developer specialising in JavaScript & TypeScript. 
+Full-stack developer and purveyor or niche React libraries.
 
 ## I Like Working with
 
