@@ -2,7 +2,7 @@
 
 # 👋 Heyo, I'm Ricky
 
-Full-stack developer and purveyor or niche React libraries.
+Full-stack developer and purveyor of niche React libraries.
 
 ## I Like Working with
 
