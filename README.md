@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Heyo, I'm Ricky
+<img alt="me" width="150" src="https://raw.githubusercontent.com/nerdyman/bloggyman/main/src/assets/me.svg?token=GHSAT0AAAAAACNWNW5KHISJSW37F5ZJSFX6ZV5WU3A" />
+
+# Heyo, I'm Ricky
 
 Full-stack developer and purveyor of niche React libraries.
 
