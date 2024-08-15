@@ -1,6 +1,6 @@
 <div align="center">
 
-# Heyo, I'm Ricky
+# 👋 Heyo, I'm Ricky
 
 Full-stack developer and purveyor of niche React libraries.
 
