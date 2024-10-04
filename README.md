@@ -1,8 +1,10 @@
 <div align="center">
 
-<img width="200" height="200" alt="Nerdyman avatar" src="./nerdyman.svg" />
-
-# 👋 Heyo, I'm Ricky
+<h1>
+  <img width="100" height="100" alt="Nerdyman avatar" src="./nerdyman.svg" />
+  <br/>
+  Heyo, I'm Ricky
+</h1>
 
 Full-stack developer and purveyor of niche React libraries.
 
