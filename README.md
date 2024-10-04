@@ -1,5 +1,9 @@
 <div align="center">
 
+<img width="200" height="200" alt="Nerdyman avatar" src="./nerdyman.svg" />
+
+<br/>
+
 # 👋 Heyo, I'm Ricky
 
 Full-stack developer and purveyor of niche React libraries.
